@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-exhaustive-deps-exclude-use-effect",
+  "name": "eslint-plugin-exhaustive-deps-no-use-effect",
   "description": "ESLint rules for React Hooks",
   "version": "1.0.0",
   "repository": {
